@@ -63,14 +63,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=wh1teened&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="wh1teened's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=er1ck-xyz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="er1ck-xyz GitHub Stats" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wh1teened&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=er1ck-xyz&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wh1teened&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=er1ck-xyz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
