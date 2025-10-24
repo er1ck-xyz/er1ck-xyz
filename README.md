@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&letterSpacing=2px&duration=3250&pause=1000&color=FF8956&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Erick+%F0%9F%91%8B;I'm+20+years+old+%F0%9F%8E%82;Welcome+to+my+GitHub+%F0%9F%92%BB%E2%9C%A8;Happy+coding!+%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A beginner FullStack Developer</h3>
+<h3 align="center"> FullStack Developer</h3>
 
 <br/>
 
