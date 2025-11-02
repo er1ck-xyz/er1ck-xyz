@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Gazin** as an apprentice
+ 🔭 I’m currently working on **Gazin**
  
  🌱 I’m currently learning **HTML , CSS , Tailwind**
 
