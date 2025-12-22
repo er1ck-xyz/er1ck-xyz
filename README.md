@@ -7,6 +7,40 @@
 
 </div>
 
+### ⚙️ GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=er1ck-xyz&show_icons=true&count_private=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=er1ck-xyz&show_icons=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="49%" height="195px"
+    src="https://github-readme-stats.vercel.app/api?username=er1ck-xyz&show_icons=true&count_private=true"
+    alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=er1ck-xyz&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=er1ck-xyz&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="41%" height="195px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=er1ck-xyz&layout=compact"
+    alt="Top Languages" />
+</picture>
+
+</div>
+
 ---
 
 ## 📚 Currently Learning
@@ -34,11 +68,16 @@
 
 **Frontend**
 <br/>
-![Skills](https://skillicons.dev/icons?i=react,bootstrap,css)
+![Skills](https://skillicons.dev/icons?i=react,bootstrap,css,ts)
 
 **Backend & Database**
 <br/>
 ![Skills](https://skillicons.dev/icons?i=nodejs,laravel,mysql,postgres)
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,npm,phpstorm" />
+
 
 </div>
 
