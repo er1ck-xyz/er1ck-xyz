@@ -1,9 +1,49 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wh1teened.wh1teened" />
+<div align="center">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=er1ck-xyz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+[![Profile Views](https://komarev.com/ghpvc/?username=er1ck-xyz&style=flat-square&color=blueviolet)](https://github.com/er1ck-xyz)
+[![Join Discord](https://img.shields.io/discord/6qMBfyC9Hy?label=Join%20Discord&logo=discord&style=flat-square&color=5865F2)](https://discord.gg/6qMBfyC9Hy)
+[![Email](https://img.shields.io/badge/Email-Contact-ff5757?style=flat-square&logo=gmail&logoColor=white)](mailto:erickvessoli656@gmail.com)
+[![Website](https://img.shields.io/badge/Visit-My%20Website-1abc9c?style=flat-square)]([https://mbn-code.dk](https://er1ck-xyz.github.io/portfolio-v2/))
 
-### Olá, meu nome é Erick!
+</div>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=ERICK&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+---
 
-<p>Trabalhando na Gazin<br/> Eu sou desenvolvedor {sua stack}</p>
+## 📚 Currently Learning
+
+<div align="center">
+
+**Low-level & Systems Programming**
+
+![Skills](https://skillicons.dev/icons?i=c,cpp,cs,lua)
+
+</div>
+
+> Studying how software works under the hood: memory manipulation, internal and external scripting, and low-level techniques used in reverse engineering and game hacking.
+
+
+---
+
+## 🛠️ Stack & Skills
+
+<div align="center">
+
+**Programming**
+<br/>
+![Skills](https://skillicons.dev/icons?i=js,php)
+
+**Frontend**
+<br/>
+![Skills](https://skillicons.dev/icons?i=react,bootstrap,css)
+
+**Backend & Database**
+<br/>
+![Skills](https://skillicons.dev/icons?i=nodejs,laravel,mysql,postgres)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=er1ck-xyz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
