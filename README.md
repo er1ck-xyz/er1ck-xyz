@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=er1ck-xyz&style=flat-square&color=blueviolet)](https://github.com/er1ck-xyz)
 [![Join Discord](https://img.shields.io/discord/6qMBfyC9Hy?label=Join%20Discord&logo=discord&style=flat-square&color=5865F2)](https://discord.gg/6qMBfyC9Hy)
 [![Email](https://img.shields.io/badge/Email-Contact-ff5757?style=flat-square&logo=gmail&logoColor=white)](mailto:erickvessoli656@gmail.com)
-[![Website](https://img.shields.io/badge/Visit-My%20Website-1abc9c?style=flat-square)]([https://mbn-code.dk](https://er1ck-xyz.github.io/portfolio-v2/))
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-1abc9c?style=flat-square)]([https://mbn-code.dk](https://er1ck-xyz.github.io/portfolio-v2/))
 
 </div>
 
