@@ -74,10 +74,19 @@
 <br/>
 ![Skills](https://skillicons.dev/icons?i=nodejs,laravel,mysql,postgres)
 
+<div align="center">
+
 **Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,npm,phpstorm" />
+</div>
 
+**Reverse Engineering Tools**
+<div align="center">
+<img src="https://github.com/idapython/src/blob/master/idapython.png" width="48" title="IDA Pro" />
+<img src="https://github.com/NationalSecurityAgency/ghidra/blob/master/GhidraDocs/images/GHIDRA_1.png" width="48" title="Ghidra" />
+<img src="https://github.com/cheat-engine/cheat-engine/blob/master/Cheat%20Engine/images/celogo.png" width="48" title="Cheat Engine" />
+<img src="https://raw.githubusercontent.com/x64dbg/x64dbg/development/src/bug.png" width="48" title="x64dbg" />
 
 </div>
 
