@@ -20,9 +20,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=er1ck-xyz&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="49%" height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=er1ck-xyz&show_icons=true&count_private=true"
-    alt="GitHub Stats" />
+
 </picture>
 
 <picture>
