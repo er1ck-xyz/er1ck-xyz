@@ -7,8 +7,6 @@
 
 </div>
 
-### ⚙️ GitHub Analytics
-
 <div align="center">
 
 <picture>
