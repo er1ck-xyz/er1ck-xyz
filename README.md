@@ -74,7 +74,16 @@
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,npm,phpstorm" />
+
+<div align="center">
+  <img src="./Git.svg" width="48" title="Git" />
+  <img src="./Visual Studio Code (VS Code).svg" width="48" title="VS Code" />
+  <img src="./NPM.svg" width="48" title="NPM" />
+  <img src="./Composer.svg" width="48" title="Composer" />
+  <img src="./Postman.svg" width="48" title="Postman" />
+  <img src="./Insomnia.svg" width="48" title="Insomnia" />
+</div>
+
 </div>
 
 **Reverse Engineering Tools**
