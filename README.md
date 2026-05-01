@@ -36,21 +36,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-<div align="center">
-
-**Low-level & Systems Programming**
-
-![Skills](https://skillicons.dev/icons?i=c,cpp,cs,lua)
-
-</div>
-
-> Studying how software works under the hood: memory manipulation, internal and external scripting, and low-level techniques used in reverse engineering and game hacking.
-
-
----
-
 ## 🛠️ Stack & Skills
 
 <div align="center">
