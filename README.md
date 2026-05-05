@@ -39,40 +39,54 @@
 
 <br clear="right"/>
 
+
 ---
 
 ## `> skills --verbose`
 
 <br/>
 
-<img align="left" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="matrix gif"/>
+<div align="center">
+
+<table>
+<tr>
+<!-- <td width="260" align="center">
+  <img width="220" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+</td> -->
+
+<td align="left">
 
 ### 🌐 Frontend
-<div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-6e00ff?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-bf00ff?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=bf00ff"/>
-</div>
-
-<br/>
 
 ### ⚙️ Backend & Runtime
-<div>
 <img src="https://img.shields.io/badge/Node.js-1a0033?style=for-the-badge&logo=nodedotjs&logoColor=bf00ff"/>
 <img src="https://img.shields.io/badge/Python-6e00ff?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-
-<br/>
+<img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white"/>
 
 ### 🛠️ Ferramentas Dev
-<div>
 <img src="https://img.shields.io/badge/Git-bf00ff?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-1a0033?style=for-the-badge&logo=npm&logoColor=bf00ff"/>
 <img src="https://img.shields.io/badge/Insomnia-6e00ff?style=for-the-badge&logo=insomnia&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 
-<br clear="left"/>
+### 💻 Ambiente & OS
+<img src="https://img.shields.io/badge/Windows-0d0d1a?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=bf00ff"/>
+<img src="https://img.shields.io/badge/Docker-1a0033?style=for-the-badge&logo=docker&logoColor=bf00ff"/>
+
+### ⚡ IDE & Setup
+<img src="https://img.shields.io/badge/VSCode-0d0d1a?style=for-the-badge&logo=visualstudiocode&logoColor=bf00ff"/>
+<img src="https://img.shields.io/badge/VSCode_Extensions-6e00ff?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -80,14 +94,37 @@
 
 <div align="center">
 
-| Ferramenta | Uso | Nível |
-|---|---|---|
-| 🐧 Kali Linux | Sistema operacional de pentest | `████████░░` Intermediário |
-| 🕷️ Burp Suite | Interceptação e análise HTTP | `██████░░░░` Aprendendo |
-| 🔍 Nmap | Reconhecimento e port scanning | `███████░░░` Intermediário |
-| 🦈 Wireshark | Análise de tráfego de rede | `█████░░░░░` Aprendendo |
-| 🐍 Python | Scripts de automação | `███████░░░` Intermediário |
-| 🌐 OSINT | Coleta de informações abertas | `████░░░░░░` Iniciando |
+```bash
+┌──(phantom㉿machine)-[~]
+└─$ nmap --script=skill-scan -p ALL localhost
+```
+
+### 🖥️ Sistemas & Ambientes
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+
+### 🕷️ Web & Aplicações
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+### 🔍 Reconhecimento & Rede
+
+<img src="https://img.shields.io/badge/Nmap-6e00ff?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+
+### 🐍 Automação & Scripts
+
+<img src="https://img.shields.io/badge/Python-6e00ff?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+### 🌐 OSINT
+
+<img src="https://img.shields.io/badge/Maltego-0078D4?style=for-the-badge&logo=maltego&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white"/>
 
 </div>
 
@@ -97,20 +134,17 @@
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/er1ck-xyz_THM">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://app.hackthebox.com/profile/SEU_ID_HTB">
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</a>
+  <a href="https://tryhackme.com/p/er1ck-xyz_THM">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  &nbsp;
+  <a href="https://app.hackthebox.com/profile/SEU_ID_HTB">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
+  </a>
 
-<br/><br/>
+  <h3>Máquinas resolvidas</h3>
 
-```
-                      Máquinas resolvidas       
-                              [21]
-```
+  <img src="https://img.shields.io/badge/Total-21-6e00ff?style=for-the-badge&labelColor=0d0d1a" alt="Máquinas resolvidas"/>
 
 </div>
 
@@ -118,25 +152,22 @@
 
 ## `> cat learning_path.md`
 
-<img align="right" width="260" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="cyberpunk gif"/>
+<!-- <img align="right" width="260" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="cyberpunk gif"/> -->
 
 ```bash
-ROADMAP — Pentest Journey 2025
+ROADMAP — Pentest Journey 2026
 ══════════════════════════════
 
 [✓] Fundamentos de redes (TCP/IP, DNS, HTTP/S)
-[✓] Linux para pentest — comandos essenciais
-[✓] HTML, CSS, JS — entender o alvo
-[✓] Python — scripts de automação
+[✓] Linux pentesting
+[✓] HTML, CSS, JS
+[✓] Python
+[✓] OWASP Top 10
 [~] Web App Pentesting (em progresso)
-[~] OWASP Top 10 (em progresso)
-[~] TryHackMe — salas ativas
-[ ] HackTheBox — primeiras máquinas
-[ ] Engenharia Reversa
+[~] TryHackMe — Active labs
+[~] HackTheBox — First Machines
 [ ] Buffer Overflow / Exploits
-[ ] Active Directory
-[ ] Certificação eJPT
-[ ] Certificação OSCP (objetivo final 🎯)
+[ ] Certificação DCPT  (objetivo final 🎯)
 ```
 
 <br clear="right"/>
@@ -156,7 +187,7 @@ ROADMAP — Pentest Journey 2025
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=er1ck-xyz&theme=radical&no-frame=true&no-bg=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=er1ck-xyz&theme=radical&no-frame=true&no-bg=true&column=8"/>
 
 </div>
 
@@ -165,16 +196,8 @@ ROADMAP — Pentest Journey 2025
 ## `> snake --contributions`
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/er1ck-xyz/er1ck-xyz/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/er1ck-xyz/er1ck-xyz/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/er1ck-xyz/er1ck-xyz/output/github-contribution-grid-snake.svg"/>
-</picture>
-
+  <img src="./snake.svg" alt="snake animation" />
 </div>
-
-> ⚙️ Para ativar a snake animation, crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o GitHub Action oficial: [Platane/snk](https://github.com/Platane/snk)
 
 ---
 
@@ -194,7 +217,7 @@ ROADMAP — Pentest Journey 2025
 
 <br/><br/>
 
-![Visitor Count](https://profile-counter.glitch.me/er1ck-xyz/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=er1ck-xyz&color=bf00ff&style=for-the-badge)
 
 </div>
 
