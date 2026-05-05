@@ -178,8 +178,7 @@ ROADMAP — Pentest Journey 2026
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=er1ck-xyz&show_icons=true&theme=radical&hide_border=true&bg_color=0d001a&title_color=bf00ff&icon_color=6e00ff&text_color=d4aaff&ring_color=bf00ff"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er1ck-xyz&layout=compact&theme=radical&hide_border=true&bg_color=0d001a&title_color=bf00ff&text_color=d4aaff"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=er1ck-xyz&layout=compact&theme=radical&hide_border=true&bg_color=0d001a&title_color=bf00ff&text_color=d4aaff">
 
 <br/><br/>
 
