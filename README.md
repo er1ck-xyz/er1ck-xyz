@@ -80,6 +80,7 @@
 <img src="https://img.shields.io/badge/Windows-0d0d1a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4OCA4OCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDEyLjQwMkwzNiA3LjV2MzIuNUgwVjEyLjQwMnptNDAgLTUuNDY1TDg4IDB2NDBINDBWNi45Mzd6TTAgNDguMDAybDM2LS41djMyLjVMMCA3NS41MDJWNDguMDAyek00MCA0Ny41bDQ4LS41djQxTDQwIDgxLjA2M1Y0Ny41eiIvPjwvc3ZnPg=="/>
 <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=bf00ff"/>
 <img src="https://img.shields.io/badge/Docker-1a0033?style=for-the-badge&logo=docker&logoColor=bf00ff"/>
+
 ### ⚡ IDE & Setup
 
 <img src="https://img.shields.io/badge/VSCode-0d0d1a?style=for-the-badge&logo=visualstudiocode&logoColor=bf00ff"/>
